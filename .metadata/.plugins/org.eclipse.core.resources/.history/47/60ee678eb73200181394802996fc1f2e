@@ -1,0 +1,11 @@
+package br.edu.ulbra.alunos.model;
+
+public class Aluno {
+
+	private String nome;
+	private float notaG1;
+	private float notaG2;
+	
+	
+	
+}

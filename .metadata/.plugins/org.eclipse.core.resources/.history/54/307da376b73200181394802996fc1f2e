@@ -1,0 +1,5 @@
+package br.edu.ulbra.alunos.model;
+
+public class Aluno {
+
+}
